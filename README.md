@@ -9,4 +9,4 @@ About K-d trees and their applications:
   
 About the implementaton:
   It's made in C++ and cmake, default value of k is set as k=3 (it can be changed), we used rand() function 
-  to generate 100 random points. We also wrote a function to find knn points, in given radious r.
+  to generate 100 random points. We also wrote a function to find knn points, in given radius r.
